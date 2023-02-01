@@ -34,10 +34,9 @@ The data model has two fact tables, and the respected connections were establish
 
 ![image](https://user-images.githubusercontent.com/90460346/216075214-06e31e14-881f-496a-b8e6-7495082ab816.png)
 
--> The first dashboard is a general analysis of the hospitality of atliq grands
--> Second one contains the revenue analysis of the based on city and month.
+The first dashboard is a general analysis of the hospitality of atliq grands. Second one contains the revenue analysis of the based on city and month.
 
-##Insights gained:
+## Insights gained:
 1. About 25% of bookings are cancelled
 2. Atliq exotica generate more revenue[212.4M]
 3. Occupancy rate  is higher in weekend
